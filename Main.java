@@ -5,7 +5,7 @@ public class Main{
 
 	sardar.myInfo();
 		
-	System.out.println("Сардар");
+	
 	
 	
 
