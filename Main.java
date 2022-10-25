@@ -3,10 +3,11 @@ public class Main{
 
 	Person sardar = new Person("Сардарбек",20,"Программист","М");
 
-	sardar.myInfo();	
-
-
-
+	sardar.myInfo();
+		
+	System.out.println("Сардар");
+	
+	
 
 	}
 }
